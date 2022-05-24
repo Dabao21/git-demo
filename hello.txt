@@ -20,3 +20,4 @@ hello zsj !hell git! master.test
 hello zsj !hell git!
 hello zsj !hell git! hot-fix.test
 hello zsj !hell !!!!!!!!!!!!!
+老子在远程库修改了，已经不同步，本地需要拉取
